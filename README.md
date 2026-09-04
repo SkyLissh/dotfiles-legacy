@@ -1,5 +1,7 @@
 # 🌸 **Lotus Dotfiles**
 
+> ⚠️ **Archived** — this repository is kept for historical purposes only, to remember my first Linux custom configuration. It is no longer actively maintained.
+
 Hello, welcome to my humblest dotfiles repository. Here you can find my configuration files for Linux, using bspwm window manager.
 
 Feel free to create an issue if I forgot to add something.
